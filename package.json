@@ -1,0 +1,19 @@
+{
+  "name": "degenerates-slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omnizach/degenerates-slack-bot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omnizach/degenerates-slack-bot/issues"
+  },
+  "homepage": "https://github.com/omnizach/degenerates-slack-bot#readme"
+}
